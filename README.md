@@ -1,4 +1,5 @@
-
+#### Hackintosh-Seb
+Hackintosh config
 ### Guide
 
 https://www.tonymacx86.com/threads/update-directly-to-macos-high-sierra.232707/
@@ -30,3 +31,10 @@ Index Refs Address            Size       Wired      Name (Version) UUID <Linked 
   123    0 0xffffff7f83577000 0xa3000    0xa3000    com.nvidia.web.GeForceWeb (10.1.8) 406C4483-F056-3173-9463-1BE0B7D3ECCD <122 120 102 85 12 7 5 4 3 1>
   130    0 0xffffff7f80ea9000 0x2000     0x2000     com.nvidia.CUDA (1.1.0) 4329B052-6C8A-3900-8E83-744487AEDEF1 <4 1>
   131    0 0xffffff7f8361a000 0x17000    0x17000    com.tuxera.filesystems.tufsfs.fusefs_txantfs (2015.11.5) D961CF7D-F98C-EE44-3AA8-175397F81CB3 <7 5 4 3 1>
+
+
+#update nvidia driver when upgrading OS
+https://github.com/Benjamin-Dobell/nvidia-update/blob/master/README.md
+
+#revert from APFS to HFS+
+https://www.techrepublic.com/article/how-to-revert-back-to-apples-hfs-from-apfs/
