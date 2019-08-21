@@ -20,3 +20,9 @@ https://github.com/Benjamin-Dobell/nvidia-update/blob/master/README.md
 
 #### revert from APFS to HFS+
 https://www.techrepublic.com/article/how-to-revert-back-to-apples-hfs-from-apfs/
+
+### Kexts
+- FakeSMC : https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/
+- Lilu : https://github.com/acidanthera/Lilu/releases
+- WhateverGreen, AppleALC : https://github.com/acidanthera/Lilu/blob/master/KnownPlugins.md
+- USBinjectAll : https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/
