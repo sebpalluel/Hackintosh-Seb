@@ -2,6 +2,9 @@
 Hackintosh config
 ## Guide
 
+Install 3rd party kexts
+https://www.tonymacx86.com/threads/guide-installing-3rd-party-kexts-el-capitan-sierra-high-sierra-mojave-catalina.268964/
+
 https://www.tonymacx86.com/threads/update-directly-to-macos-high-sierra.232707/
 https://hackintosher.com/guides/updating-your-hackintosh-to-mojave-10-14/
 
